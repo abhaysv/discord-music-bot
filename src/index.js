@@ -1,4 +1,4 @@
-require('dotenv').config();
+//require('dotenv').config();
 const { readdirSync } = require('fs');
 const { join } = require('path');
 const MusicClient = require('./struct/Client');
